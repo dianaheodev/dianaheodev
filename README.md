@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋 I'm Diana
 
-<!--
-**dianaheodev/dianaheodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer passionate about building clean, scalable systems using Java and Spring Boot.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+- **💻 Languages:** Java, JavaScript, Python  
+- **⚙️ Frameworks & Libraries:** Spring Boot, React  
+- **🗃️ Databases & Tools:** MySQL, Redis  
+- **⛴️ DevOps & Others:** Docker, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑🏻‍💻 Projects
+- 🍽️ AI Menu Recommender – Personalized menu recommendation system using GPT-3.5 and Redis
+- 🗓️ Slack-style Kanban Board – Role-based project management platform inspired by Slack
+
+## 📮 Contact
+- Email: diana.heo.dev@gmail.com  
+- Portfolio: https://dianaheo.dev (coming soon)
+- LinkedIn: [https://www.linkedin.com/in/dianaheo](https://www.linkedin.com/in/sooyeon-h797201)
