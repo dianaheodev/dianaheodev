@@ -31,13 +31,17 @@ I'm a backend developer passionate about building clean, scalable systems using 
   - Implemented health check and async agent structure  
 
 ---
-
+ 
 - 🍽️ **AI Menu Recommender**  
-  A personalized menu recommendation system powered by Spring AI (GPT-3.5 Turbo) and Redis.  
+  A personalized menu recommendation system built with Spring AI (Beta, GPT-3.5 Turbo) and Redis.  
+  Collected five user taste preferences during onboarding to enhance personalization.  
+  Fine-tuned prompts to reduce AI hallucinations and improve recommendation accuracy.  
+  Proactively adopted Spring AI during its beta phase, designing a hybrid Redis + RDB architecture  
+  to balance performance with data persistence.  
   **Main Contributions:**  
-  - Designed hybrid Redis + RDB architecture  
-  - Tuned prompt logic to improve recommendation accuracy  
-  - Balanced performance and data persistence  
+  - Led the project as team leader (scope planning, timeline management, and final presentation)  
+  - Developed the core AI prompt logic and menu recommendation flow  
+  - Project was selected as the top-performing final project of the cohort
 
 ---
 
